@@ -1,0 +1,17 @@
+* {
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  background-color: #303030;
+}
+
+body{ 
+  background-color: white;
+  max-width: 500px;
+  width: 100%;
+  margin: auto;
+  height: 100vh;
+}
