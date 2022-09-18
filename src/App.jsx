@@ -3,7 +3,7 @@ import { useRef, useState } from "react";
 import "./App.css";
 
 const App = () => {
-  const items = ["1", "2"];
+  const items = ["1", "2", "3", "4", "5", "6", "7", "8", "9"];
   const [preIndex, setPreIndex] = useState(0);
   const [isSelect, setIsSelect] = useState(1);
 
